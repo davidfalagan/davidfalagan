@@ -22,5 +22,5 @@ Certificado de Profesionalidad de Nivel 3 con los siguientes módulos:
   - Programación web en el entorno cliente (180h), 
   - Programación web en el entorno servidor (240h), 
   - Implantación de aplicaciones web en entornos internet, intranet y extranet (90h). 
-Utilizando tecnologías como HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL, WordPress, PrestaShop. 
+Utilizando tecnologías como HTML, CSS, Bootstrap, JavaScript, jQuery, PHP, MVC,  MySQL, WordPress, PrestaShop. 
 80h de prácticas en FormateCyL desarrollando un sitio web con WordPress y Elementor (https//fcylt.formatecyl.com).
